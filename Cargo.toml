@@ -1,0 +1,6 @@
+[package]
+name = "backitup"
+version = "0.1.0"
+authors = ["Kimi <kimi.kan@xxxx.com>"]
+
+[dependencies]
