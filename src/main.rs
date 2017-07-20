@@ -114,6 +114,6 @@ fn list_files(path:&str) {
 }
 
 fn main() {
-    list_files("e:/DealDetails/");
+    list_files("e:/temp/");
     println!("done");
 }
